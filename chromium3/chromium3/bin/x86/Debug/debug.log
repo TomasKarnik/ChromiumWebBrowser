@@ -1,0 +1,164 @@
+[0301/092910.703:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/093024.581:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/093225.922:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/093240.222:INFO:CONSOLE(0)] "HTML Imports is deprecated and will be removed in M73, around March 2019. Please use ES modules instead. See https://www.chromestatus.com/features/5144752345317376 for more details.", source:  (0)
+[0301/093240.564:INFO:CONSOLE(23)] "document.registerElement is deprecated and will be removed in M73, around March 2019. Please use window.customElements.define instead. See https://www.chromestatus.com/features/4642138092470272 for more details.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (23)
+[0301/093240.784:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/093240.945:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dpassive%26next%3D%252Fsignin_passive%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop&hl=en&uilel=3&service=youtube' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[0301/093241.284:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/093241.466:INFO:CONSOLE(1894)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (1894)
+[0301/093241.599:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vfleq49Qy/network.js (15)
+[0301/093242.965:ERROR:audio_manager_base.cc(362)] Invalid audio output parameters received; using fake audio path: format: 0 channel_layout: 0 channels: 0 sample_rate: 0 frames_per_buffer: 0 effects: 0 mic_positions: 
+[0301/094333.146:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/094642.705:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/094704.361:INFO:CONSOLE(0)] "HTML Imports is deprecated and will be removed in M73, around March 2019. Please use ES modules instead. See https://www.chromestatus.com/features/5144752345317376 for more details.", source:  (0)
+[0301/094704.678:INFO:CONSOLE(23)] "document.registerElement is deprecated and will be removed in M73, around March 2019. Please use window.customElements.define instead. See https://www.chromestatus.com/features/4642138092470272 for more details.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (23)
+[0301/094704.844:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/094704.924:INFO:CONSOLE(1771)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (1771)
+[0301/094704.925:INFO:CONSOLE(1771)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (1771)
+[0301/094704.926:INFO:CONSOLE(1771)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (1771)
+[0301/094705.027:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?uilel=3&service=youtube&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dpassive%26next%3D%252Fsignin_passive%26hl%3Den&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[0301/094705.142:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/094705.287:INFO:CONSOLE(1894)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (1894)
+[0301/094705.398:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vfleq49Qy/network.js (15)
+[0301/094706.670:ERROR:audio_manager_base.cc(362)] Invalid audio output parameters received; using fake audio path: format: 0 channel_layout: 0 channels: 0 sample_rate: 0 frames_per_buffer: 0 effects: 0 mic_positions: 
+[0301/095404.234:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/095420.946:INFO:CONSOLE(0)] "HTML Imports is deprecated and will be removed in M73, around March 2019. Please use ES modules instead. See https://www.chromestatus.com/features/5144752345317376 for more details.", source:  (0)
+[0301/095421.282:INFO:CONSOLE(23)] "document.registerElement is deprecated and will be removed in M73, around March 2019. Please use window.customElements.define instead. See https://www.chromestatus.com/features/4642138092470272 for more details.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (23)
+[0301/095421.461:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/095421.536:INFO:CONSOLE(1771)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (1771)
+[0301/095421.537:INFO:CONSOLE(1771)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (1771)
+[0301/095421.538:INFO:CONSOLE(1771)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (1771)
+[0301/095421.636:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fsignin_passive%26feature%3Dpassive%26action_handle_signin%3Dtrue%26hl%3Den%26app%3Ddesktop&hl=en&service=youtube' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[0301/095421.759:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/095421.894:INFO:CONSOLE(1894)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (1894)
+[0301/095421.991:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vfleq49Qy/network.js (15)
+[0301/095423.485:ERROR:audio_manager_base.cc(362)] Invalid audio output parameters received; using fake audio path: format: 0 channel_layout: 0 channels: 0 sample_rate: 0 frames_per_buffer: 0 effects: 0 mic_positions: 
+[0301/095731.976:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/095738.944:WARNING:angle_platform_impl.cc(52)] compileToBinary(232): 
+C:\fakepath(73,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(95,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0301/095826.352:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/095914.739:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/095951.283:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/100021.473:INFO:CONSOLE(0)] "The resource https://pagead2.googlesyndication.com/pagead/js/r20190227/r20190131/show_ads_impl.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0301/105040.321:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/105323.001:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/105349.040:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/110027.881:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/110038.821:INFO:CONSOLE(0)] "HTML Imports is deprecated and will be removed in M73, around March 2019. Please use ES modules instead. See https://www.chromestatus.com/features/5144752345317376 for more details.", source:  (0)
+[0301/110039.108:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fsignin_passive%26hl%3Den%26feature%3Dpassive%26app%3Ddesktop%26action_handle_signin%3Dtrue&passive=true&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[0301/110039.139:INFO:CONSOLE(23)] "document.registerElement is deprecated and will be removed in M73, around March 2019. Please use window.customElements.define instead. See https://www.chromestatus.com/features/4642138092470272 for more details.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (23)
+[0301/110039.311:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/110039.581:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/110039.766:INFO:CONSOLE(1894)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (1894)
+[0301/110039.928:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vfleq49Qy/network.js (15)
+[0301/110041.652:ERROR:audio_manager_base.cc(362)] Invalid audio output parameters received; using fake audio path: format: 0 channel_layout: 0 channels: 0 sample_rate: 0 frames_per_buffer: 0 effects: 0 mic_positions: 
+[0301/110706.643:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/111655.932:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/111736.164:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/111759.490:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 104 to 127
+[0301/111759.491:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 106 to 125
+[0301/111759.491:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 103 to 124
+[0301/111759.492:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 105 to 123
+[0301/111803.376:INFO:CONSOLE(0)] "The resource https://pagead2.googlesyndication.com/pagead/js/r20190227/r20190131/show_ads_impl.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0301/112043.388:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 511
+[0301/145618.838:WARNING:angle_platform_impl.cc(52)] compileToBinary(232): 
+C:\fakepath(73,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(95,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0301/150001.956:INFO:CONSOLE(0)] "HTML Imports is deprecated and will be removed in M73, around March 2019. Please use ES modules instead. See https://www.chromestatus.com/features/5144752345317376 for more details.", source:  (0)
+[0301/150002.990:INFO:CONSOLE(23)] "document.registerElement is deprecated and will be removed in M73, around March 2019. Please use window.customElements.define instead. See https://www.chromestatus.com/features/4642138092470272 for more details.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (23)
+[0301/150003.272:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/150003.365:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dpassive%26next%3D%252Fsignin_passive%26hl%3Den&hl=en&uilel=3&service=youtube' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[0301/150003.684:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/150003.989:INFO:CONSOLE(1894)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (1894)
+[0301/150004.239:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vfleq49Qy/network.js (15)
+[0301/150036.954:INFO:CONSOLE(0)] "HTML Imports is deprecated and will be removed in M73, around March 2019. Please use ES modules instead. See https://www.chromestatus.com/features/5144752345317376 for more details.", source:  (0)
+[0301/150038.029:INFO:CONSOLE(23)] "document.registerElement is deprecated and will be removed in M73, around March 2019. Please use window.customElements.define instead. See https://www.chromestatus.com/features/4642138092470272 for more details.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (23)
+[0301/150038.297:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/150038.392:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?hl=en&uilel=3&service=youtube&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26feature%3Dpassive%26app%3Ddesktop%26next%3D%252Fsignin_passive%26action_handle_signin%3Dtrue' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[0301/150038.660:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/150038.802:INFO:CONSOLE(1894)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (1894)
+[0301/150038.993:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vfleq49Qy/network.js (15)
+[0301/150501.716:INFO:CONSOLE(0)] "HTML Imports is deprecated and will be removed in M73, around March 2019. Please use ES modules instead. See https://www.chromestatus.com/features/5144752345317376 for more details.", source:  (0)
+[0301/150502.757:INFO:CONSOLE(23)] "document.registerElement is deprecated and will be removed in M73, around March 2019. Please use window.customElements.define instead. See https://www.chromestatus.com/features/4642138092470272 for more details.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (23)
+[0301/150503.018:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/150503.110:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?uilel=3&service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dpassive%26hl%3Den%26action_handle_signin%3Dtrue%26next%3D%252Fsignin_passive%26app%3Ddesktop&hl=en&passive=true' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[0301/150503.441:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/150503.670:INFO:CONSOLE(1894)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (1894)
+[0301/150503.803:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vfleq49Qy/network.js (15)
+[0301/150503.988:INFO:CONSOLE(8725)] "paper-tooltip:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (8725)
+[0301/150504.033:INFO:CONSOLE(8725)] "paper-tooltip:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (8725)
+[0301/150504.065:INFO:CONSOLE(8725)] "paper-tooltip:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (8725)
+[0301/150504.600:INFO:CONSOLE(8725)] "paper-tooltip:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflkxfFUu/desktop_polymer.js (8725)
+[0301/150520.343:ERROR:broker_win.cc(137)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0301/153125.751:INFO:CONSOLE(0)] "Refused to display 'https://www.facebook.com/connect/ping?client_id=1475087379377836&domain=www.whatsmybrowser.org&origin=1&redirect_uri=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FMmH55ZI0Z2G.js%3Fversion%3D44%23cb%3Df1fd4b77876e574%26domain%3Dwww.whatsmybrowser.org%26origin%3Dhttps%253A%252F%252Fwww.whatsmybrowser.org%252Ff1f65a9ed629ed4%26relation%3Dparent&response_type=token%2Csigned_request&sdk=joey' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.whatsmybrowser.org/ (0)
+[0301/153128.423:INFO:CONSOLE(0)] "The resource https://pagead2.googlesyndication.com/pagead/js/r20190227/r20190131/show_ads_impl.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0301/155912.165:FATAL:hwnd_util.cc(64)] : The parameter is incorrect. (0x57)
+[0301/155936.669:FATAL:hwnd_util.cc(64)] : The parameter is incorrect. (0x57)
+[0301/160059.137:FATAL:hwnd_util.cc(64)] : The parameter is incorrect. (0x57)
+[0301/160126.983:FATAL:hwnd_util.cc(64)] : The parameter is incorrect. (0x57)
+[0301/160320.308:FATAL:hwnd_util.cc(64)] : The parameter is incorrect. (0x57)
+[0301/160335.369:INFO:child_thread_impl.cc(795)] ChildThreadImpl::EnsureConnected()
+[0301/160406.197:FATAL:hwnd_util.cc(64)] : The parameter is incorrect. (0x57)
+[0301/160457.551:FATAL:hwnd_util.cc(64)] : The parameter is incorrect. (0x57)
+[0301/160637.608:FATAL:hwnd_util.cc(64)] : The parameter is incorrect. (0x57)
+[0301/160722.149:FATAL:hwnd_util.cc(64)] : The parameter is incorrect. (0x57)
+[0301/160905.998:FATAL:hwnd_util.cc(64)] : The parameter is incorrect. (0x57)
+[0301/160912.640:FATAL:hwnd_util.cc(64)] : The parameter is incorrect. (0x57)
+[0301/161503.650:FATAL:hwnd_util.cc(64)] : The parameter is incorrect. (0x57)
+[0301/165320.337:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 104 to 127
+[0301/165320.338:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 106 to 125
+[0301/165320.338:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 103 to 124
+[0301/165320.338:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 105 to 123
+[0301/165323.934:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 104 to 127
+[0301/165323.935:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 106 to 125
+[0301/165323.935:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 103 to 124
+[0301/165323.935:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 105 to 123
+[0301/165324.816:INFO:CONSOLE(11)] "[object DOMException]", source: https://cz.search.etargetnet.com/generic/uni.php?g=ref:43583,background_color:ffffff,background_image:clasic,background_opacity:100,border_color:ffffff,border_style:none,design_name:custom,font:arial,fsi:11,h_text_color:000000,h_title_color:6d0d4b,h_title_underline:0,h_url_underline:0,hover_back:transparent,logo:1,logo_type:9,nourl:1,area:728x90,tabl:4,text_color:000000,title_color:6d0d4b,title_underline:0,url_underline:0 (11)
+[0301/165324.816:INFO:CONSOLE(44)] "[object DOMException]", source: https://cz.search.etargetnet.com/generic/uni.php?g=ref:43583,background_color:ffffff,background_image:clasic,background_opacity:100,border_color:ffffff,border_style:none,design_name:custom,font:arial,fsi:11,h_text_color:000000,h_title_color:6d0d4b,h_title_underline:0,h_url_underline:0,hover_back:transparent,logo:1,logo_type:9,nourl:1,area:728x90,tabl:4,text_color:000000,title_color:6d0d4b,title_underline:0,url_underline:0 (44)
+[0301/165324.966:INFO:CONSOLE(1)] "state:complete", source:  (1)
+[0301/165324.967:INFO:CONSOLE(1)] "init:undefined", source:  (1)
+[0301/165324.967:INFO:CONSOLE(1)] "check", source:  (1)
+[0301/165324.982:INFO:CONSOLE(351)] "state:complete", source: https://cz.search.etargetnet.com/generic/uni.php?g=ref:43583,background_color:ffffff,background_image:clasic,background_opacity:100,border_color:ffffff,border_style:none,design_name:custom,font:arial,fsi:11,h_text_color:000000,h_title_color:6d0d4b,h_title_underline:0,h_url_underline:0,hover_back:transparent,logo:1,logo_type:9,nourl:1,area:728x90,tabl:4,text_color:000000,title_color:6d0d4b,title_underline:0,url_underline:0 (351)
+[0301/165324.983:INFO:CONSOLE(352)] "init:undefined", source: https://cz.search.etargetnet.com/generic/uni.php?g=ref:43583,background_color:ffffff,background_image:clasic,background_opacity:100,border_color:ffffff,border_style:none,design_name:custom,font:arial,fsi:11,h_text_color:000000,h_title_color:6d0d4b,h_title_underline:0,h_url_underline:0,hover_back:transparent,logo:1,logo_type:9,nourl:1,area:728x90,tabl:4,text_color:000000,title_color:6d0d4b,title_underline:0,url_underline:0 (352)
+[0301/165324.985:INFO:CONSOLE(363)] "check", source: https://cz.search.etargetnet.com/generic/uni.php?g=ref:43583,background_color:ffffff,background_image:clasic,background_opacity:100,border_color:ffffff,border_style:none,design_name:custom,font:arial,fsi:11,h_text_color:000000,h_title_color:6d0d4b,h_title_underline:0,h_url_underline:0,hover_back:transparent,logo:1,logo_type:9,nourl:1,area:728x90,tabl:4,text_color:000000,title_color:6d0d4b,title_underline:0,url_underline:0 (363)
+[0301/165329.559:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 104 to 127
+[0301/165329.559:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 106 to 125
+[0301/165329.559:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 103 to 124
+[0301/165329.559:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 105 to 123
+[0301/165330.790:INFO:CONSOLE(11)] "[object DOMException]", source: https://cz.search.etargetnet.com/generic/advert.php?g=ref:23392,area:300x300,:,tabl:4,design_name:uloz.to,border_color:ffffff,border_style:simple,background_opacity:100,background_color:ffffff,hover_back:transparent,title_color:6d0d4b,text_color:000000,url_color:6e9a30,h_title_color:6d0d4b,h_text_color:000000,h_url_color:6e9a30,freespace:0,logo_type:1,logo:1,title_underline:0,url_underline:0,h_title_underline:1,h_url_underline:1,nourl:1,fsi:11,font:arial,tt:0,q:https%3A%2F%2Fadvert.uloz.to%2Fads%2Fad-1820.html%3Flogged%3D0%26page%3D%2521Ct3tG9IJMbtr%252Ftrailer-gran-hermano-minecraft-192kbit-aac-m4a%253Fq%253Dminecraft%26origin%3Duloz.to%26adult%3D0 (11)
+[0301/165330.792:INFO:CONSOLE(44)] "[object DOMException]", source: https://cz.search.etargetnet.com/generic/advert.php?g=ref:23392,area:300x300,:,tabl:4,design_name:uloz.to,border_color:ffffff,border_style:simple,background_opacity:100,background_color:ffffff,hover_back:transparent,title_color:6d0d4b,text_color:000000,url_color:6e9a30,h_title_color:6d0d4b,h_text_color:000000,h_url_color:6e9a30,freespace:0,logo_type:1,logo:1,title_underline:0,url_underline:0,h_title_underline:1,h_url_underline:1,nourl:1,fsi:11,font:arial,tt:0,q:https%3A%2F%2Fadvert.uloz.to%2Fads%2Fad-1820.html%3Flogged%3D0%26page%3D%2521Ct3tG9IJMbtr%252Ftrailer-gran-hermano-minecraft-192kbit-aac-m4a%253Fq%253Dminecraft%26origin%3Duloz.to%26adult%3D0 (44)
+[0301/165330.793:INFO:CONSOLE(351)] "state:complete", source: https://cz.search.etargetnet.com/generic/advert.php?g=ref:23392,area:300x300,:,tabl:4,design_name:uloz.to,border_color:ffffff,border_style:simple,background_opacity:100,background_color:ffffff,hover_back:transparent,title_color:6d0d4b,text_color:000000,url_color:6e9a30,h_title_color:6d0d4b,h_text_color:000000,h_url_color:6e9a30,freespace:0,logo_type:1,logo:1,title_underline:0,url_underline:0,h_title_underline:1,h_url_underline:1,nourl:1,fsi:11,font:arial,tt:0,q:https%3A%2F%2Fadvert.uloz.to%2Fads%2Fad-1820.html%3Flogged%3D0%26page%3D%2521Ct3tG9IJMbtr%252Ftrailer-gran-hermano-minecraft-192kbit-aac-m4a%253Fq%253Dminecraft%26origin%3Duloz.to%26adult%3D0 (351)
+[0301/165330.793:INFO:CONSOLE(352)] "init:undefined", source: https://cz.search.etargetnet.com/generic/advert.php?g=ref:23392,area:300x300,:,tabl:4,design_name:uloz.to,border_color:ffffff,border_style:simple,background_opacity:100,background_color:ffffff,hover_back:transparent,title_color:6d0d4b,text_color:000000,url_color:6e9a30,h_title_color:6d0d4b,h_text_color:000000,h_url_color:6e9a30,freespace:0,logo_type:1,logo:1,title_underline:0,url_underline:0,h_title_underline:1,h_url_underline:1,nourl:1,fsi:11,font:arial,tt:0,q:https%3A%2F%2Fadvert.uloz.to%2Fads%2Fad-1820.html%3Flogged%3D0%26page%3D%2521Ct3tG9IJMbtr%252Ftrailer-gran-hermano-minecraft-192kbit-aac-m4a%253Fq%253Dminecraft%26origin%3Duloz.to%26adult%3D0 (352)
+[0301/165330.794:INFO:CONSOLE(363)] "check", source: https://cz.search.etargetnet.com/generic/advert.php?g=ref:23392,area:300x300,:,tabl:4,design_name:uloz.to,border_color:ffffff,border_style:simple,background_opacity:100,background_color:ffffff,hover_back:transparent,title_color:6d0d4b,text_color:000000,url_color:6e9a30,h_title_color:6d0d4b,h_text_color:000000,h_url_color:6e9a30,freespace:0,logo_type:1,logo:1,title_underline:0,url_underline:0,h_title_underline:1,h_url_underline:1,nourl:1,fsi:11,font:arial,tt:0,q:https%3A%2F%2Fadvert.uloz.to%2Fads%2Fad-1820.html%3Flogged%3D0%26page%3D%2521Ct3tG9IJMbtr%252Ftrailer-gran-hermano-minecraft-192kbit-aac-m4a%253Fq%253Dminecraft%26origin%3Duloz.to%26adult%3D0 (363)
+[0301/165330.830:INFO:CONSOLE(1)] "state:complete", source:  (1)
+[0301/165330.831:INFO:CONSOLE(1)] "init:undefined", source:  (1)
+[0301/165330.833:INFO:CONSOLE(1)] "check", source:  (1)
+[0301/165340.650:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0301/165340.650:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0301/170303.973:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 104 to 127
+[0301/170303.974:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 106 to 125
+[0301/170303.974:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 103 to 124
+[0301/170303.974:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 105 to 123
+[0301/170306.527:WARNING:spdy_session.cc(3144)] Received HEADERS for invalid stream 5
+[0301/170306.596:WARNING:spdy_session.cc(3144)] Received HEADERS for invalid stream 7
+[0301/170306.797:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 104 to 127
+[0301/170306.797:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 106 to 125
+[0301/170306.797:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 103 to 124
+[0301/170306.797:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 105 to 123
+[0301/170309.683:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 104 to 127
+[0301/170309.683:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 106 to 125
+[0301/170309.684:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 103 to 124
+[0301/170309.684:WARNING:mediasession.cc(349)] Duplicate id found. Reassigning from 105 to 123
+[0301/170317.813:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0301/170317.814:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0301/170332.969:ERROR:browser_host_impl.cc(1722)] Invalid URL passed to CefBrowserHostImpl::LoadURL: chrome://
+[0301/170333.763:ERROR:browser_host_impl.cc(1722)] Invalid URL passed to CefBrowserHostImpl::LoadURL: chrome://
+[0301/170333.947:ERROR:browser_host_impl.cc(1722)] Invalid URL passed to CefBrowserHostImpl::LoadURL: chrome://
+[0301/170338.275:INFO:chrome_scheme_handler.cc(533)] Reguest for unknown chrome resource: chrome://downloads/
+[0301/170352.727:INFO:chrome_scheme_handler.cc(533)] Reguest for unknown chrome resource: chrome://downloads/
+[0301/171203.431:WARNING:spdy_session.cc(3144)] Received HEADERS for invalid stream 45
+[0301/171203.441:WARNING:spdy_session.cc(3144)] Received HEADERS for invalid stream 47
