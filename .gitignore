@@ -2,3 +2,6 @@ chromium3\packages
 .chromium3\packages
 chromium3\packages
 *chromium3\packages
+*.chromium3/packages
+packages/
+
