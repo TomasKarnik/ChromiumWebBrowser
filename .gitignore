@@ -1,7 +1,3 @@
-chromium3\packages
-.chromium3\packages
-chromium3\packages
-*chromium3\packages
-*.chromium3/packages
+rls/
 packages/
 

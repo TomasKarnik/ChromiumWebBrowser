@@ -66,7 +66,7 @@ namespace chromium3
 
             CefSettings setting = new CefSettings();
             setting.CachePath = "cache";
-            Cef.Initialize(setting);
+            //Cef.Initialize(setting); dont know why but after update doest work, browser seems to work fine after removing this
             
             txtUrl.Text = ($"{Settings.Default.searchengine}");
             chrome = new ChromiumWebBrowser(txtUrl.Text); //url bar
