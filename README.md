@@ -15,7 +15,9 @@
  Download from github. 
  Open chromium3.sln
  Install following packages from NuGet. (It will propably auto-detest packages needed , just click "Restore" if it shows up)
- If you cant restore, install packages bellow. Choose most recent option its propably same as version used in this project. I try to keep it up-to-date.
+ If you cant restore, install packages bellow. 
+ Choose most recent option its propably same as version used in this project. 
+ I try to keep it up-to-date.
  
  Packages needed:
  
