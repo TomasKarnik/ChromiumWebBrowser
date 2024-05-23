@@ -1,5 +1,7 @@
 # ChromiumWebBrowser
  Fully working C# webbrowser
+My personal project that was focused on learning how building basic chromium browser works. Did this in highschool so please dont judge me. :)
+ 
  
  This has been my main project for a past year or two.
  
@@ -10,6 +12,9 @@
   -downloading, etc.
  
  It has its flaws.
+
+
+ 
  
  How to use:
  
@@ -18,14 +23,6 @@
   Open chromium3.sln
   
   Install following packages from NuGet. 
-  
-  It will propably auto-detest packages needed , just click "Restore" if it shows up
-  
-  If you cant restore, install packages bellow. 
-  
-  Choose most recent option its propably same as version used in this project. 
-  
-  I try to keep it up-to-date.
  
  Packages needed:
  
