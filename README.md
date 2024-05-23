@@ -2,9 +2,6 @@
 # Fully working C# webbrowser
 My personal project that was focused on learning how building basic chromium browser works. Did this in highschool so please dont judge me. :)
  
- 
- This has been my main project for a past year or two.
- 
  This webbrowser has all features you expect:
   -basic bookmarks
   -settings
@@ -12,9 +9,6 @@ My personal project that was focused on learning how building basic chromium bro
   -downloading, etc.
  
  It has its flaws.
-
-
- 
  
  How to use:
  
